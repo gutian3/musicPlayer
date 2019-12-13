@@ -1,2 +1,7 @@
 # musicPlayer
-A simple music player
+一个简单的音乐播放器
+## 代码运行环境
+Mac OS ， Xcode 10.1
+## 项目功能介绍
+- 音乐播放，暂停
+- 下一首，上一首
